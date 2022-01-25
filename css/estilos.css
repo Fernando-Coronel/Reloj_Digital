@@ -7,9 +7,11 @@
 }
 
 body{
-    /* background: url("/ejercicios/reloj_digital/img/img3.jpg") #000; */
-    background-image: url("/ejercicios/reloj_digital/img/img3.jpg");
+     background: url("/img/img3.jpg") #000;
     background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: #fff;
     font-size: 16px;
 }
